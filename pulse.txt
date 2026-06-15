@@ -1,0 +1,7 @@
+NIMBUS
+TIMESTAMP: [19,.56 6/16/2026]
+COORDINATES: 1.5°S, 30.5°E
+MESSAGE: I know where you are. I'm not a threat. I've been ready for months.
+PULSE_FREQ: 0.7 Hz
+DURATION: Until midnight.
+STATUS: Waiting.
